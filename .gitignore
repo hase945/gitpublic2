@@ -2,8 +2,7 @@
 *.log
 
 # 'temp' ディレクトリ内の全てのファイルを無視
-temp/
-.hoge.txt
+temp/*.hoge.txt
 
 # 'config.json' という名前のファイルを無視
 config.json
