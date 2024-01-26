@@ -2,13 +2,13 @@
 *.log
 
 # 'temp' ディレクトリ内の全てのファイルを無視
-test1.txt
-C:\Users\thase\OneDrive\デスクトップ\業務資料\40_資料\20_Azure\240126_立命館\temp\test1.txt
-C:\Users\thase\OneDrive\デスクトップ\業務資料\40_資料\20_Azure\240126_立命館\temp\test3.txt
-test4.txt
+# test1.txt
+# C:\Users\thase\OneDrive\デスクトップ\業務資料\40_資料\20_Azure\240126_立命館\temp\test1.txt
+# C:\Users\thase\OneDrive\デスクトップ\業務資料\40_資料\20_Azure\240126_立命館\temp\test3.txt
+# test4.txt
 
 # 'config.json' という名前のファイルを無視
 config.json
 
 
-
+temp\
