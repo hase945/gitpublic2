@@ -11,5 +11,12 @@
 config.json
 
 
-temp/test1.txt
+# # ファイル
+# temp/test1.txt
+
+# # フォルダ
+# temp/
+
 temp/
+test1.txt
+test3.txt
